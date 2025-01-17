@@ -63,7 +63,7 @@ function createCardMember(cardTeam) {
   // creazione card-team
   let card = `   
    <div class="row text-bg-dark p-3  align-items-start container text-center" > 
-    <div class="col" >
+    <div class="col" class="card-team" >
     
       <div>
           <img src="${img}" alt="${name}" />

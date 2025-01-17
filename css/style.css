@@ -13,9 +13,20 @@ h1 {
     font-weight: bold;
 }
 
+/* regole p sotto il titolo */
+
+#lorem {
+    text-align: center;
+    margin: 60px;
+}
+
 /* regole elemento output */
 #outputCardElement {
     display: flex;
 }
 
+/* regole card team */
+.card-team {
+    
+}
   
