@@ -1,7 +1,12 @@
+/* regole titolo */
 h1 {
     text-align: center;
+    font-size: 38px;
+    color: fuchsia;
+    font-weight: bold;
 }
 
+/* regole elemento output */
 #outputCardElement {
     display: flex;
 }
