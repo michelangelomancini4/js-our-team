@@ -1,3 +1,10 @@
+/* regole generali */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /* regole titolo */
 h1 {
     text-align: center;
@@ -10,3 +17,5 @@ h1 {
 #outputCardElement {
     display: flex;
 }
+
+  
